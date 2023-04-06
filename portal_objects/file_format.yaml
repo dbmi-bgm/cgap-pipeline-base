@@ -487,8 +487,6 @@ name: bigWig
 extension: bw
 description: Binary version of a Wig file. |
              Format used for display of dense continuous data with genomic coordinates.
-file_types:
-  - FileReference
 uuid: 33f30c42-d582-4163-af44-fecf586b9dd3
 
 ---
